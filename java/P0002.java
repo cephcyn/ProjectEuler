@@ -8,7 +8,7 @@ By considering the terms in the Fibonacci sequence whose values do not exceed
  four million, find the sum of the even-valued terms.
 */
 
-public class Problem0002 {
+public class P0002 {
     public static void main(String[] args) {
         int fib1 = 1;
         int fib2 = 1;
